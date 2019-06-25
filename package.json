@@ -1,0 +1,9 @@
+{
+  "name": "spply",
+  "version": "0.0.1",
+  "description": "A tool for clean project scaffolding",
+  "main": "index.js",
+  "repository": "git@github.com:spply/spply.git",
+  "author": "Yuliyan Slavchev <yuliyan.slavchev@gmail.com>",
+  "license": "MIT"
+}
